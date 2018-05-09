@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>zipkinSvr</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Zipkin project for Spring Boot micro-services</description>
 
 		<parent>
 		<groupId>org.springframework.boot</groupId>
